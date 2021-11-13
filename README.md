@@ -61,7 +61,7 @@ I keep Learning new Technologies and Frameworks.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-<h1 align="center">Github Stats</h1>
+<h1>Github Stats:</h1>
  <div align="center" >
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AtharvK9&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvK9&layout=compact">
 </div> 
