@@ -12,10 +12,10 @@
   </a>
   <a href="mailto:atharvkasar2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   
-  ## About Me:
-  Hey there! I am a tech enthusiast currently pursuing a Bachelors in Computer Science Engineering(Second-year undergraduate).
-  I enjoy creative problem solving, Competitive-Programming, Web-Development , Open-Source and experimenting with various domains in computer science.
-  I keep Learning new Technologies and Frameworks.
+## About Me:
+Hey there! I am a tech enthusiast currently pursuing a Bachelors in Computer Science Engineering(Second-year undergraduate).
+I enjoy creative problem solving, Competitive-Programming, Web-Development , Open-Source and experimenting with various domains in computer science.
+I keep Learning new Technologies and Frameworks.
   
   ## My skills include:
 - Data Structures and Algorithms
