@@ -15,7 +15,7 @@
   </a>
   
 ## About Me:
-Hey there! I am a tech enthusiast currently pursuing a Bachelors in Computer Science Engineering(Second-year undergraduate)🎓.
+Hey there! I am a tech enthusiast currently pursuing a Bachelors in Computer Science Engineering(Second-year undergraduate)🎓.<br>
 I enjoy creative problem solving, Competitive-Programming, Web-Development , Open-Source and experimenting with various domains in computer science.
 I keep Learning new Technologies and Frameworks.
   
