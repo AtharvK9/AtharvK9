@@ -23,6 +23,7 @@ I keep Learning new Technologies and Frameworks.
 - Data Structures and Algorithms
 - Problem Solving
 - Full-stack Web Development
+- Competitive Programming
 - Python Programming
 
 ## Languages:
