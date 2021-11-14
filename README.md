@@ -25,7 +25,6 @@ I keep Learning new Technologies and Frameworks.
 - Full-stack Web Development
 - Competitive Programming
 - Python Programming
-- Machine Learning
 
 ## Languages:
 <p align="center">
