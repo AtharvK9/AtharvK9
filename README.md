@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
- A bit about Myself, I am pursuing a <b>Computer Science Degree</b> from NBN Sinhgad School of Engineering, Pune. ⚡
+ A bit about Myself, I am pursuing a <b>Computer Science Degree</b> from Savitribai Phule Pune University, Pune. ⚡
   <br>
   <br>
   
