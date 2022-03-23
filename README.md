@@ -13,6 +13,9 @@
   <a href="mailto:atharvkasar2002@gmail.com">
     <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/Atharvakasar8">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" />
+  </a>
   
 ## About Me:
 Hey there! I am a tech enthusiast currently pursuing a Bachelors in Computer Science Engineering(Second-year undergraduate)🎓.<br>
